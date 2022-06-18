@@ -1,0 +1,9 @@
+/* Write your global styles here, in PostCSS syntax */
+@import '@fontsource/marck-script';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.marck-script {
+	font-family: 'Marck  Script', cursive;
+}
